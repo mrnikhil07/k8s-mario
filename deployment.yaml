@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mario-container
-        image: nikhilkolambikar07/mario:latest 
+        image: nikhilkolambikar07/mario:latest      # use your dockerhub id to store the images
         ports:
         - containerPort: 80
